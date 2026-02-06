@@ -1,43 +1,86 @@
-# 👋 Hi, I'm Kona Omeshwar Reddy  
-### Aspiring Data Analyst | Python • SQL • Power BI • Data Visualization
+# 👋 Hi, I'm Kona Omeshwar Reddy
 
-I am passionate about turning raw data into meaningful insights.  
-I love working with Python, SQL, and Power BI to solve real-world business problems.
-
----
-
-## 🔥 Skills
-- **Programming:** Python (Pandas, NumPy, Matplotlib)
-- **Analytics:** Data Cleaning, EDA, Business Insights
-- **BI Tools:** Power BI
-- **Databases:** MySQL, SQL Queries
-- **Other:** Git, GitHub, Excel
+Backend Developer Intern | Node.js | REST APIs | MongoDB  
+📍 Hyderabad, India
 
 ---
 
-## 📊 Featured Projects
+## 👨‍💻 About Me
 
-### 📌 **E-Commerce Sales Analysis (Python + SQL + Power BI)**
-- Analyzed 1000+ e-commerce records  
-- Generated insights like revenue, top products, category-wise sales  
-- Built visualizations and trends  
+I am a **Backend Developer Intern at RyzeUP Labs**, working on real-world server-side applications.
 
-👉 Repository: [Ecommerce_Sales_Analysis](https://github.com/omeshwarreddykona/Ecommerce_Sales_Analysis)
+I specialize in building **RESTful APIs** using **Node.js, Express.js, and MongoDB**, with a strong focus on:
+- Clean code
+- Secure authentication
+- Scalable backend architecture
 
----
-
-### 📌 **Employee Performance Analytics (Python + SQL)**
-- Explored HR data  
-- Converted performance scores, calculated averages  
-- Found patterns between salary, performance, and absences  
-
-👉 Repository: [Employee_Performance_Analysis](https://github.com/omeshwarreddykona/Employee_Performance_Analysis)
+I hold a **B.Tech in Electronics and Communication Engineering** and am the inventor of a patented system filed under the **Indian Patent Office**, demonstrating system-level problem solving and decentralized networking concepts.
 
 ---
 
-## 📫 Contact Me
-📧 **omeshwarreddy66@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/kona-omeshwar-reddy-60a0b72b4/
+## 🛠 Tech Stack
+
+**Languages**
+- JavaScript
+- Python (Basics)
+
+**Backend**
+- Node.js
+- Express.js
+- RESTful APIs
+
+**Databases**
+- MongoDB
+- MySQL
+
+**Authentication & Security**
+- JWT (JSON Web Tokens)
+- Role-Based Access Control
+
+**Tools**
+- Git & GitHub
+- Postman
+- VS Code
+
+**Core Concepts**
+- CRUD Operations
+- MVC Architecture
+- API Security
+- Error Handling
 
 ---
-⭐ *I am actively looking for Data Analyst Internships.*
+
+## 🚀 Projects
+
+### 🔹 User–Product Backend API
+- RESTful API for user and product management
+- JWT-based authentication and authorization
+- Secure CRUD operations
+- MongoDB schema design
+- API testing using Postman
+
+### 🔹 Student Management API
+- Backend system for managing student records
+- Admin and staff role-based access
+- MVC architecture for maintainable code
+- Optimized database queries
+
+---
+
+## 📜 Patent
+
+**Offline GPS Peer-to-Peer Navigation and Coordination System**  
+Patent filed with the **Indian Patent Office**  
+Focus on decentralized communication, networking fundamentals, and system-level design.
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **omeshwarreddy66@gmail.com**
+- 💻 GitHub: [github.com/omeshwarreddykona](https://github.com/omeshwarreddykona)
+- 📍 Location: Hyderabad, India
+
+---
+
+⭐ *Always open to backend development opportunities and learning new technologies.*
