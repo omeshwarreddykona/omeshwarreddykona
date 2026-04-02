@@ -78,7 +78,7 @@ Focus on decentralized communication, networking fundamentals, and system-level 
 ## 📫 Contact
 
 - 📧 Email: **omeshwarreddy66@gmail.com**
-- 💻 GitHub: [github.com/omeshwarreddykona](https://github.com/omeshwarreddykona)
+- 💻 LinkedIn : https://www.linkedin.com/in/kona-omeshwar-reddy-60a0b72b4/
 - 📍 Location: Hyderabad, India
 
 ---
